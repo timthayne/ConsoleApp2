@@ -10,8 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            var name = "Brother Thayne";
-            var location = "Rexburg, ID";
+            string name = "Brother Thayne";
+            string location = "Rexburg, ID";
 
 
 
