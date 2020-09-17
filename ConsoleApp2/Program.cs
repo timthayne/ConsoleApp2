@@ -13,6 +13,14 @@ namespace ConsoleApp2
             string name = "Brother Thayne";
             string location = "Rexburg, ID";
 
+            Console.WriteLine("My name is " + name);
+            Console.WriteLine("I am from " + location);
+
+
+
+
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
 
 
 
